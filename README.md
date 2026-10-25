@@ -20,8 +20,12 @@ confiáveis e transformo esses dados em indicadores, relatórios e dashboards qu
 ```yaml
 bruno_franco:
   atuacao: [Análise de Dados, Engenharia de Dados]
-  foco:    [SQL, ETL/ELT, modelagem dimensional, qualidade de dados, BI]
-  status:  aberto a oportunidades como Analista de Dados ou Engenheiro de Dados
+  foco:
+    - SQL e modelagem dimensional
+    - pipelines ETL/ELT
+    - qualidade de dados
+    - indicadores e BI
+  busco: Analista de Dados ou Engenheiro de Dados
 ```
 
 ### `$ cat como-eu-trabalho.md`
