@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0E1420,100:2FA7A0&section=header&text=Bruno%20Franco&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=An%C3%A1lise%20%26%20Engenharia%20de%20Dados&descSize=20&descAlignY=58&descColor=E8A33D" alt="Bruno Franco · Análise & Engenharia de Dados"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0E1420,100:2FA7A0&section=header&text=Bruno%20Franco&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=An%C3%A1lise%20e%20Engenharia%20de%20Dados&descSize=20&descAlignY=58&descColor=E8A33D" alt="Bruno Franco · Análise & Engenharia de Dados"/>
 
 <div align="center">
 
