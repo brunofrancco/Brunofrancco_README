@@ -26,7 +26,7 @@ do negócio. Busco oportunidades como **Analista de Dados** ou **Engenheiro de D
   <a href="https://github.com/brunofrancco/insurance-data-analytics"><img width="49%" src="assets/projects/seguros.svg" alt="Pipeline de uma seguradora digital: 15 regras de qualidade, star schema e indicadores em SQL"/></a>
   <a href="https://github.com/brunofrancco/Analise-Exploratoria-de-Dados-Superstore-Sales-Analytics"><img width="49%" src="assets/projects/superstore.svg" alt="Superstore Sales Analytics: descontos de 50% ou mais deram prejuízo em 100% dos pedidos"/></a>
   <a href="https://github.com/brunofrancco/customer-analytics-data-quality-eda"><img width="49%" src="assets/projects/clientes.svg" alt="Customer Analytics: 180 clientes duplicados removidos"/></a>
-  <a href="https://brunofrancco.github.io/portifolio-de-projetos/"><img width="49%" src="assets/projects/portfolio.svg" alt="Veja todos os projetos no portfólio"/></a>
+  <a href="https://github.com/brunofrancco?tab=repositories"><img width="49%" src="assets/projects/portfolio.svg" alt="Veja todos os projetos: meus repositórios no GitHub"/></a>
 </p>
 
 <br/>
