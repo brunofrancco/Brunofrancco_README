@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250" role="img" aria-labelledby="t">
+  <title id="t">Plataforma de dados de RH — 100% no Google Cloud</title>
+  <defs>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#FFFFFF" opacity="0.07"/></pattern>
+    <radialGradient id="gTeal" cx="15%" cy="20%" r="55%"><stop offset="0" stop-color="#2FA7A0" stop-opacity="0.30"/><stop offset="1" stop-color="#2FA7A0" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gAmber" cx="88%" cy="85%" r="50%"><stop offset="0" stop-color="#E8A33D" stop-opacity="0.20"/><stop offset="1" stop-color="#E8A33D" stop-opacity="0"/></radialGradient>
+    <clipPath id="round"><rect width="580" height="250" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="580" height="250" fill="#0E1420"/>
+    <rect width="580" height="250" fill="url(#dots)"/>
+    <rect width="580" height="250" fill="url(#gTeal)"/>
+    <rect width="580" height="250" fill="url(#gAmber)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="579" height="249" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <rect x="0" y="0" width="5" height="250" fill="#2FA7A0" clip-path="url(#round)"/>
+  <rect x="28" y="24" width="168" height="24" rx="12" fill="#2FA7A0" fill-opacity="0.16"/>
+  <text x="112" y="40.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="600" fill="#2FA7A0" letter-spacing="0.8">ENGENHARIA DE DADOS</text>
+  <text x="552" y="41" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#2FA7A0">ver repositório →</text>
+  <text x="28" y="80" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#FFFFFF">Plataforma de dados de RH</text>
+  <text x="28" y="108" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#B9C2D0">Pipeline ELT no Google Cloud: API de RH, BigQuery, star schema com</text><text x="28" y="130" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#B9C2D0">dbt e Airflow, com dados pessoais mascarados (LGPD).</text>
+  <text x="28" y="158" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="600" fill="#E8A33D">▸ 100% no Google Cloud</text>
+  <rect x="28" y="200" width="81" height="26" rx="13" fill="none" stroke="#FFFFFF" stroke-opacity="0.22"/><text x="69" y="217.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#B9C2D0">BigQuery</text><rect x="117.2" y="200" width="44" height="26" rx="13" fill="none" stroke="#FFFFFF" stroke-opacity="0.22"/><text x="139" y="217.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#B9C2D0">dbt</text><rect x="169.4" y="200" width="74" height="26" rx="13" fill="none" stroke="#FFFFFF" stroke-opacity="0.22"/><text x="206" y="217.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#B9C2D0">Airflow</text><rect x="251.20000000000002" y="200" width="89" height="26" rx="13" fill="none" stroke="#FFFFFF" stroke-opacity="0.22"/><text x="296" y="217.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#B9C2D0">Terraform</text>
+</svg>

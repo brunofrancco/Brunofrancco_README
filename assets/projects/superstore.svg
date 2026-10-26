@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="250" viewBox="0 0 580 250" role="img" aria-labelledby="t">
+  <title id="t">Superstore Sales Analytics — Desconto ≥ 50% = prejuízo em 100% dos pedidos</title>
+  <defs>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.2" fill="#FFFFFF" opacity="0.07"/></pattern>
+    <radialGradient id="gTeal" cx="15%" cy="20%" r="55%"><stop offset="0" stop-color="#2FA7A0" stop-opacity="0.30"/><stop offset="1" stop-color="#2FA7A0" stop-opacity="0"/></radialGradient>
+    <radialGradient id="gAmber" cx="88%" cy="85%" r="50%"><stop offset="0" stop-color="#E8A33D" stop-opacity="0.20"/><stop offset="1" stop-color="#E8A33D" stop-opacity="0"/></radialGradient>
+    <clipPath id="round"><rect width="580" height="250" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="580" height="250" fill="#0E1420"/>
+    <rect width="580" height="250" fill="url(#dots)"/>
+    <rect width="580" height="250" fill="url(#gTeal)"/>
+    <rect width="580" height="250" fill="url(#gAmber)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="579" height="249" rx="18" fill="none" stroke="#FFFFFF" stroke-opacity="0.12"/>
+  <rect x="0" y="0" width="5" height="250" fill="#E8A33D" clip-path="url(#round)"/>
+  <rect x="28" y="24" width="146" height="24" rx="12" fill="#E8A33D" fill-opacity="0.16"/>
+  <text x="101" y="40.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" font-weight="600" fill="#E8A33D" letter-spacing="0.8">ANÁLISE DE DADOS</text>
+  <text x="552" y="41" text-anchor="end" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#2FA7A0">ver repositório →</text>
+  <text x="28" y="80" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#FFFFFF">Superstore Sales Analytics</text>
+  <text x="28" y="108" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#B9C2D0">Análise de vendas de varejo com testes de hipótese, Pareto,</text><text x="28" y="130" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#B9C2D0">segmentação RFM e dashboard interativo.</text>
+  <text x="28" y="158" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="600" fill="#E8A33D">▸ Desconto ≥ 50% = prejuízo em 100% dos pedidos</text>
+  <rect x="28" y="200" width="66" height="26" rx="13" fill="none" stroke="#FFFFFF" stroke-opacity="0.22"/><text x="61" y="217.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#B9C2D0">Pandas</text><rect x="102.4" y="200" width="59" height="26" rx="13" fill="none" stroke="#FFFFFF" stroke-opacity="0.22"/><text x="132" y="217.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#B9C2D0">SciPy</text><rect x="169.4" y="200" width="66" height="26" rx="13" fill="none" stroke="#FFFFFF" stroke-opacity="0.22"/><text x="203" y="217.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#B9C2D0">Plotly</text><rect x="243.8" y="200" width="89" height="26" rx="13" fill="none" stroke="#FFFFFF" stroke-opacity="0.22"/><text x="288" y="217.5" text-anchor="middle" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" fill="#B9C2D0">Streamlit</text>
+</svg>
